@@ -1,5 +1,5 @@
-function greetFullName(first, last) {
-    return "Hello " + first + " " + last + "!";
+function greetFullName(first, middle, last) {
+    return "Hello " + first + " " + middle + " " + last + "!";
 }
 
 export default greetFullName;
